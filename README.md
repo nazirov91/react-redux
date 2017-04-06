@@ -1,4 +1,4 @@
-#To-do App
+To-do App
 
 	- React
 	- Redux
