@@ -4,4 +4,5 @@ To-do App
 	- Redux
 	- Mateial-UI
 
-[^Demo]: [Demo](http://sardor.io/todoApp/index.html)	
+
+[Demo](http://sardor.io/todoApp/index.html)	
